@@ -7,6 +7,14 @@ If the customer would like to purchase items, the store owner then places an ord
 A store owner will be responsible for reporting the purchases and returns of the store, and sending them to the server, and the analysis team at headquarters will be 
 responsible for requesting some statistics related to the operations, which will be generated on the server.
 
+When running the program, first you need to run the server file then client file to make the connection and the program will start. 
+In your terminal, you can run them by typing the path of your python.exe followed by the file path.  
+An example is shown below:
+& 'C:\Users\dilah\AppData\Local\Programs\Python\Python312\python.exe' 'C:\Users\dilah\OneDrive\Desktop\Clothing_Brand_Application
+\server.py' --> For server side
+& 'C:\Users\dilah\AppData\Local\Programs\Python\Python312\python.exe' 'C:\Users\dilah\OneDrive\Desktop\Clothing_Brand_Application
+\client.py' ---> For client side
+
 # Features
 - Authentication
   - Client connects to the server and logs in with username & password.
