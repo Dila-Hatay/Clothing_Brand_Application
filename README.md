@@ -12,6 +12,7 @@ In your terminal, you can run them by typing the path of your python.exe followe
 
 An example is shown below:
 & 'C:\Users\dilah\AppData\Local\Programs\Python\Python312\python.exe' 'C:\Users\dilah\OneDrive\Desktop\Clothing_Brand_Application\server.py' --> For server side
+
 & 'C:\Users\dilah\AppData\Local\Programs\Python\Python312\python.exe' 'C:\Users\dilah\OneDrive\Desktop\Clothing_Brand_Application\client.py' ---> For client side
 
 # Features
